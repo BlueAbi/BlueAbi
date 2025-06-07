@@ -1,1 +1,1 @@
-Hi, I'm a first year Computer Engineering student, and this where I'll hopefully post my projects to act as a portfolio.
+Hi, I'm a Computer Engineering student B.S, and this where I'll post my project to showcase my skills.
